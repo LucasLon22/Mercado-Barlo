@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Camiseta de Boca",
+        "precio": "6000",
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/G/U/GU1883_0.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta de River",
+        "precio": "5000",
+        "imagen": "https://tiendariver.vteximg.com.br/arquivos/ids/166662-1000-1000/FQ7660_1.png?v=637412131738370000"
+    },
+    {
+        "id": 3,
+        "titulo": "Camiseta de Real Madrid",
+        "precio": "5000",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/23d0c93d901842379ab8ab4a012819ab_9366/Camiseta_Local_Real_Madrid_20-21_Blanco_FQ7486_01_laydown.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Camiseta de Barcelona",
+        "precio": "6000",
+        "imagen": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_3.0/w_300,c_limit/3712faa8-d7c6-4078-ac06-adff9fe6508d/primera-equipacion-stadium-fc-barcelona-2022-23-camiseta-de-futbol-dri-fit-Hn9LCv.png"
+    },
+    {
+        "id": 5,
+        "titulo": "Camiseta de Machester United",
+        "precio": "7000",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0369b275fa1341d4ab57ad1000744eac_9366/Camiseta_Titular_Manchester_United_21-22_Rojo_GR3778_01_laydown.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Camiseta de Machester city",
+        "precio": "5000",
+        "imagen": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/camiseta-manchester-city-puma-oficial-celeste-640020757058001-1.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "Camiseta de Inter",
+        "precio": "4000",
+        "imagen": "https://todosobrecamisetas.com/wp-content/uploads/inter-milan-2021-22-nike-home-kit-3.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Camiseta de Milan",
+        "precio": "8000",
+        "imagen": "https://assets-es.imgfoot.com/media/cache/800x800/milan-ac-home-2016-2017.jpg"
+    }
+]
